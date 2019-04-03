@@ -1,0 +1,54 @@
+{
+	"ImportPath": "k8s.io/cri-api",
+	"GoVersion": "unknown",
+	"GodepVersion": "gen-godeps",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/davecgh/go-spew",
+			"Rev": "782f4967f2dc"
+		},
+		{
+			"ImportPath": "github.com/gogo/protobuf",
+			"Rev": "342cbe0a0415"
+		},
+		{
+			"ImportPath": "github.com/golang/glog",
+			"Rev": "23def4e6c14b"
+		},
+		{
+			"ImportPath": "github.com/golang/protobuf",
+			"Rev": "v1.1.0"
+		},
+		{
+			"ImportPath": "github.com/pmezard/go-difflib",
+			"Rev": "5d4384ee4fb2"
+		},
+		{
+			"ImportPath": "github.com/stretchr/testify",
+			"Rev": "c679ae2cc0cb"
+		},
+		{
+			"ImportPath": "golang.org/x/net",
+			"Rev": "65e2d4e15006"
+		},
+		{
+			"ImportPath": "golang.org/x/sync",
+			"Rev": "42b317875d0f"
+		},
+		{
+			"ImportPath": "golang.org/x/text",
+			"Rev": "b19bf474d317"
+		},
+		{
+			"ImportPath": "google.golang.org/genproto",
+			"Rev": "09f6ed296fc6"
+		},
+		{
+			"ImportPath": "google.golang.org/grpc",
+			"Rev": "v1.13.0"
+		}
+	]
+}

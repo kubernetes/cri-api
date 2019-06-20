@@ -27,8 +27,12 @@
 			"Rev": "v1.0.0"
 		},
 		{
+			"ImportPath": "github.com/stretchr/objx",
+			"Rev": "v0.1.0"
+		},
+		{
 			"ImportPath": "github.com/stretchr/testify",
-			"Rev": "v1.2.2"
+			"Rev": "v1.3.0"
 		},
 		{
 			"ImportPath": "golang.org/x/net",

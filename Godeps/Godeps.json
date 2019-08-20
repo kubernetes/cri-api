@@ -56,7 +56,7 @@
 		},
 		{
 			"ImportPath": "golang.org/x/tools",
-			"Rev": "aa82965741a9"
+			"Rev": "6c7e314b6563"
 		},
 		{
 			"ImportPath": "google.golang.org/genproto",

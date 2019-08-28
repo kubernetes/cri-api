@@ -8,7 +8,7 @@
 	"Deps": [
 		{
 			"ImportPath": "cloud.google.com/go",
-			"Rev": "v0.26.0"
+			"Rev": "v0.34.0"
 		},
 		{
 			"ImportPath": "github.com/BurntSushi/toml",
@@ -36,7 +36,7 @@
 		},
 		{
 			"ImportPath": "github.com/golang/protobuf",
-			"Rev": "v1.2.0"
+			"Rev": "v1.3.1"
 		},
 		{
 			"ImportPath": "github.com/google/go-cmp",
@@ -63,6 +63,10 @@
 			"Rev": "v1.3.0"
 		},
 		{
+			"ImportPath": "golang.org/x/exp",
+			"Rev": "509febef88a4"
+		},
+		{
 			"ImportPath": "golang.org/x/lint",
 			"Rev": "8f45f776aaf1"
 		},
@@ -72,7 +76,7 @@
 		},
 		{
 			"ImportPath": "golang.org/x/oauth2",
-			"Rev": "d2e6202438be"
+			"Rev": "9f3314589c9a"
 		},
 		{
 			"ImportPath": "golang.org/x/sync",
@@ -92,11 +96,11 @@
 		},
 		{
 			"ImportPath": "google.golang.org/appengine",
-			"Rev": "v1.1.0"
+			"Rev": "v1.4.0"
 		},
 		{
 			"ImportPath": "google.golang.org/genproto",
-			"Rev": "c66870c02cf8"
+			"Rev": "54afdca5d873"
 		},
 		{
 			"ImportPath": "google.golang.org/grpc",

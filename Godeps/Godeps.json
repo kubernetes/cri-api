@@ -36,7 +36,7 @@
 		},
 		{
 			"ImportPath": "github.com/golang/protobuf",
-			"Rev": "v1.3.1"
+			"Rev": "v1.3.2"
 		},
 		{
 			"ImportPath": "github.com/google/go-cmp",
@@ -104,7 +104,7 @@
 		},
 		{
 			"ImportPath": "google.golang.org/grpc",
-			"Rev": "v1.23.0"
+			"Rev": "v1.23.1"
 		},
 		{
 			"ImportPath": "honnef.co/go/tools",

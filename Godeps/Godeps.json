@@ -51,6 +51,18 @@
 			"Rev": "v1.0.0"
 		},
 		{
+			"ImportPath": "github.com/kr/pretty",
+			"Rev": "v0.1.0"
+		},
+		{
+			"ImportPath": "github.com/kr/pty",
+			"Rev": "v1.1.1"
+		},
+		{
+			"ImportPath": "github.com/kr/text",
+			"Rev": "v0.1.0"
+		},
+		{
 			"ImportPath": "github.com/pmezard/go-difflib",
 			"Rev": "v1.0.0"
 		},
@@ -60,7 +72,7 @@
 		},
 		{
 			"ImportPath": "github.com/stretchr/testify",
-			"Rev": "v1.3.0"
+			"Rev": "v1.4.0"
 		},
 		{
 			"ImportPath": "golang.org/x/crypto",
@@ -113,6 +125,14 @@
 		{
 			"ImportPath": "google.golang.org/grpc",
 			"Rev": "v1.23.1"
+		},
+		{
+			"ImportPath": "gopkg.in/check.v1",
+			"Rev": "788fd7840127"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Rev": "v2.2.4"
 		},
 		{
 			"ImportPath": "honnef.co/go/tools",

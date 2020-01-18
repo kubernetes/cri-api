@@ -15,6 +15,10 @@
 			"Rev": "v0.3.1"
 		},
 		{
+			"ImportPath": "github.com/census-instrumentation/opencensus-proto",
+			"Rev": "v0.2.1"
+		},
+		{
 			"ImportPath": "github.com/client9/misspell",
 			"Rev": "v0.3.4"
 		},
@@ -23,8 +27,16 @@
 			"Rev": "v1.1.1"
 		},
 		{
+			"ImportPath": "github.com/envoyproxy/go-control-plane",
+			"Rev": "5f8ba28d4473"
+		},
+		{
+			"ImportPath": "github.com/envoyproxy/protoc-gen-validate",
+			"Rev": "v0.1.0"
+		},
+		{
 			"ImportPath": "github.com/gogo/protobuf",
-			"Rev": "65acae22fc9d"
+			"Rev": "v1.3.1"
 		},
 		{
 			"ImportPath": "github.com/golang/glog",
@@ -40,7 +52,7 @@
 		},
 		{
 			"ImportPath": "github.com/google/go-cmp",
-			"Rev": "v0.2.0"
+			"Rev": "v0.3.0"
 		},
 		{
 			"ImportPath": "github.com/kisielk/errcheck",
@@ -65,6 +77,10 @@
 		{
 			"ImportPath": "github.com/pmezard/go-difflib",
 			"Rev": "v1.0.0"
+		},
+		{
+			"ImportPath": "github.com/prometheus/client_model",
+			"Rev": "14fe0d1b01d4"
 		},
 		{
 			"ImportPath": "github.com/stretchr/objx",
@@ -120,11 +136,11 @@
 		},
 		{
 			"ImportPath": "google.golang.org/genproto",
-			"Rev": "54afdca5d873"
+			"Rev": "24fa4b261c55"
 		},
 		{
 			"ImportPath": "google.golang.org/grpc",
-			"Rev": "v1.23.1"
+			"Rev": "v1.26.0"
 		},
 		{
 			"ImportPath": "gopkg.in/check.v1",

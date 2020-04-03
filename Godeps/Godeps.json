@@ -48,7 +48,7 @@
 		},
 		{
 			"ImportPath": "github.com/golang/protobuf",
-			"Rev": "v1.3.2"
+			"Rev": "v1.3.3"
 		},
 		{
 			"ImportPath": "github.com/google/go-cmp",
@@ -104,7 +104,7 @@
 		},
 		{
 			"ImportPath": "golang.org/x/net",
-			"Rev": "16171245cfb2"
+			"Rev": "d3edc9973b7e"
 		},
 		{
 			"ImportPath": "golang.org/x/oauth2",

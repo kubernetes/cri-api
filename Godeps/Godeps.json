@@ -136,7 +136,7 @@
 		},
 		{
 			"ImportPath": "google.golang.org/genproto",
-			"Rev": "f3c370f40bfb"
+			"Rev": "ca5a22157cba"
 		},
 		{
 			"ImportPath": "google.golang.org/grpc",

@@ -116,7 +116,7 @@
 		},
 		{
 			"ImportPath": "golang.org/x/sys",
-			"Rev": "fde4db37ae7a"
+			"Rev": "915c9c3d4ccf"
 		},
 		{
 			"ImportPath": "golang.org/x/text",
@@ -124,7 +124,7 @@
 		},
 		{
 			"ImportPath": "golang.org/x/tools",
-			"Rev": "65e3620a7ae7"
+			"Rev": "2c0ae7006135"
 		},
 		{
 			"ImportPath": "golang.org/x/xerrors",
@@ -132,7 +132,7 @@
 		},
 		{
 			"ImportPath": "google.golang.org/appengine",
-			"Rev": "v1.1.0"
+			"Rev": "v1.4.0"
 		},
 		{
 			"ImportPath": "google.golang.org/genproto",

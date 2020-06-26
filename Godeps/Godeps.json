@@ -116,7 +116,7 @@
 		},
 		{
 			"ImportPath": "golang.org/x/sys",
-			"Rev": "915c9c3d4ccf"
+			"Rev": "ed371f2e16b4"
 		},
 		{
 			"ImportPath": "golang.org/x/text",
@@ -136,15 +136,15 @@
 		},
 		{
 			"ImportPath": "google.golang.org/genproto",
-			"Rev": "ca5a22157cba"
+			"Rev": "cb27e3aa2013"
 		},
 		{
 			"ImportPath": "google.golang.org/grpc",
-			"Rev": "v1.26.0"
+			"Rev": "v1.27.0"
 		},
 		{
 			"ImportPath": "google.golang.org/protobuf",
-			"Rev": "v1.23.0"
+			"Rev": "v1.24.0"
 		},
 		{
 			"ImportPath": "gopkg.in/check.v1",

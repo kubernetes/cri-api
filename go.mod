@@ -2,7 +2,7 @@
 
 module k8s.io/cri-api
 
-go 1.14
+go 1.13
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
@@ -18,3 +18,5 @@ require (
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
+
+replace k8s.io/cri-api => ../cri-api

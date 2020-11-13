@@ -48,11 +48,11 @@
 		},
 		{
 			"ImportPath": "github.com/golang/protobuf",
-			"Rev": "v1.4.2"
+			"Rev": "v1.4.3"
 		},
 		{
 			"ImportPath": "github.com/google/go-cmp",
-			"Rev": "v0.4.0"
+			"Rev": "v0.5.2"
 		},
 		{
 			"ImportPath": "github.com/kisielk/errcheck",
@@ -88,7 +88,7 @@
 		},
 		{
 			"ImportPath": "github.com/stretchr/testify",
-			"Rev": "v1.4.0"
+			"Rev": "v1.6.1"
 		},
 		{
 			"ImportPath": "golang.org/x/crypto",
@@ -120,7 +120,7 @@
 		},
 		{
 			"ImportPath": "golang.org/x/text",
-			"Rev": "v0.3.3"
+			"Rev": "v0.3.4"
 		},
 		{
 			"ImportPath": "golang.org/x/tools",
@@ -128,7 +128,7 @@
 		},
 		{
 			"ImportPath": "golang.org/x/xerrors",
-			"Rev": "9bdfabe68543"
+			"Rev": "5ec99f83aff1"
 		},
 		{
 			"ImportPath": "google.golang.org/appengine",
@@ -136,23 +136,23 @@
 		},
 		{
 			"ImportPath": "google.golang.org/genproto",
-			"Rev": "cb27e3aa2013"
+			"Rev": "8816d57aaa9a"
 		},
 		{
 			"ImportPath": "google.golang.org/grpc",
-			"Rev": "v1.27.0"
+			"Rev": "v1.27.1"
 		},
 		{
 			"ImportPath": "google.golang.org/protobuf",
-			"Rev": "v1.24.0"
+			"Rev": "v1.25.0"
 		},
 		{
 			"ImportPath": "gopkg.in/check.v1",
 			"Rev": "41f04d3bba15"
 		},
 		{
-			"ImportPath": "gopkg.in/yaml.v2",
-			"Rev": "v2.2.8"
+			"ImportPath": "gopkg.in/yaml.v3",
+			"Rev": "9f266ea9e77c"
 		},
 		{
 			"ImportPath": "honnef.co/go/tools",

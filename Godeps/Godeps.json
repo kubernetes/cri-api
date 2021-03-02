@@ -112,7 +112,7 @@
 		},
 		{
 			"ImportPath": "golang.org/x/net",
-			"Rev": "69a78807bb2b"
+			"Rev": "3d97a244fca7"
 		},
 		{
 			"ImportPath": "golang.org/x/oauth2",
@@ -124,7 +124,11 @@
 		},
 		{
 			"ImportPath": "golang.org/x/sys",
-			"Rev": "5cba982894dd"
+			"Rev": "a50acf3fe073"
+		},
+		{
+			"ImportPath": "golang.org/x/term",
+			"Rev": "7de9c90e9dd1"
 		},
 		{
 			"ImportPath": "golang.org/x/text",

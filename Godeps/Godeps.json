@@ -23,6 +23,10 @@
 			"Rev": "v0.3.4"
 		},
 		{
+			"ImportPath": "github.com/creack/pty",
+			"Rev": "v1.1.9"
+		},
+		{
 			"ImportPath": "github.com/davecgh/go-spew",
 			"Rev": "v1.1.1"
 		},
@@ -63,16 +67,16 @@
 			"Rev": "v1.0.0"
 		},
 		{
-			"ImportPath": "github.com/kr/pretty",
-			"Rev": "v0.2.0"
-		},
-		{
 			"ImportPath": "github.com/kr/pty",
 			"Rev": "v1.1.1"
 		},
 		{
 			"ImportPath": "github.com/kr/text",
-			"Rev": "v0.1.0"
+			"Rev": "v0.2.0"
+		},
+		{
+			"ImportPath": "github.com/niemeyer/pretty",
+			"Rev": "a10e7caefd8e"
 		},
 		{
 			"ImportPath": "github.com/pmezard/go-difflib",
@@ -160,7 +164,7 @@
 		},
 		{
 			"ImportPath": "gopkg.in/check.v1",
-			"Rev": "41f04d3bba15"
+			"Rev": "8fa46927fb4f"
 		},
 		{
 			"ImportPath": "gopkg.in/yaml.v3",

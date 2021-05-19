@@ -92,7 +92,7 @@
 		},
 		{
 			"ImportPath": "github.com/stretchr/testify",
-			"Rev": "v1.6.1"
+			"Rev": "v1.7.0"
 		},
 		{
 			"ImportPath": "github.com/yuin/goldmark",
